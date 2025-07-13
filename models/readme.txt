@@ -1,0 +1,1 @@
+готовые веса можно скачать здесь https://drive.google.com/file/d/1wzLPXeeoIVNxXPWP-BCf-AwAQ0kpn7nt/view?usp=sharing

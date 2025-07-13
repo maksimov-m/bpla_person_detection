@@ -1,0 +1,6 @@
+train: ...
+val: lite_data_yolo_test/images
+test: lite_data_yolo_test/images
+
+names:
+  0: perestrian
