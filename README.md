@@ -18,7 +18,7 @@
 
 *~ Примечание ~*
 
-- ** Обучение воспроизводилось на основе репозитория https://github.com/spmallick/learnopencv/tree/master/finetuning-retinanet
+- ** Обучение RetinaNet воспроизводилось на основе репозитория https://github.com/spmallick/learnopencv/tree/master/finetuning-retinanet
 - В качестве данных для обучения использовался открытый датасет LADD https://datasetninja.com/lacmus-drone-dataset
 
 ## Инструкция по запуску 
